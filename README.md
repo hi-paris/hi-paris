@@ -64,7 +64,8 @@
 
 <!-- Research-POST-LIST:START -->
 
-- [Learning Output Embeddings in Structured Prediction](https://arxiv.org/pdf/2007.14703.pdf) Luc Brogat-Motte, Alessandro Rudi, Céline Brouard, Juho Rousu, Florence d’Alché-Buc
+- [Learning Output Embeddings in Structured Prediction](https://arxiv.org/pdf/2007.14703.pdf) - Luc Brogat-Motte, Alessandro Rudi, Céline Brouard, Juho Rousu et Florence d’Alché-Buc
+- [Functional Isolation Forest](https://arxiv.org/pdf/1904.04573.pdf) - Guillaume Staerman, Pavlo Mozharovskyi, Stephan Clémençon et Florence d’Alché-Buc
 
 <!-- Research-POST-LIST:END -->
 
