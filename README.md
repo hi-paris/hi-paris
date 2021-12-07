@@ -10,8 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
 
 <br />
@@ -58,7 +57,6 @@
 
 <!-- Articles-POST-LIST:END -->
 
-➡️ [more articles...](https://medium.com/@gaetan-brison)
 
 ---
 
@@ -84,7 +82,7 @@
 
 [engineering-team]: https://engineeringteam.hi-paris.fr/
 [hi-paris]: https://www.hi-paris.fr/
-[linkedin]: https://www.linkedin.com/in/gaetan-brison/
+
 
 
 
