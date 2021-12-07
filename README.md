@@ -64,7 +64,7 @@
 
 <!-- Research-POST-LIST:START -->
 
-- In Progress ...
+- [Learning Output Embeddings in Structured Prediction](https://arxiv.org/pdf/2007.14703.pdf) Luc Brogat-Motte, Alessandro Rudi, Céline Brouard, Juho Rousu, Florence d’Alché-Buc
 
 <!-- Research-POST-LIST:END -->
 
