@@ -2,7 +2,7 @@
 
 ## [@Hi! PARIS][hi-paris] - Institut Polytechnique Paris x HEC Paris x INRIA Saclay
 
-- 🚀 Official launch of the Hi! Paris [Engineering Team][engineering-team] Jan 2022
+- 🚀 Official launch of the Hi! Paris [Engineering Team][engineering-team] Feb 2022
 - 👨🏼‍💻 👩🏼‍💻 I’m looking to collaborate with more software developpers & data scientists & researchers
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
