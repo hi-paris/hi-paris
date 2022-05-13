@@ -70,6 +70,15 @@
 
 ---
 
+###  👨🏼‍💻 The Engineering Team
+
+- [Gaëtan Brison](https://github.com/gaetanbrison)
+- [Awais Sani](https://github.com/yohila)
+- [Pierre-Antoine Amiand Leroy](https://github.com/PAAMIANDLEROY)
+- [Mazhou Hu](https://github.com/Uhouhzam)
+
+---
+
 ### &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/hi-paris/hi-paris">
